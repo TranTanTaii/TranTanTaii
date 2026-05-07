@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3B82F6&height=220&section=header&text=Tran%20Tan%20Tai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%C2%B7%20Technical%20BA%20%C2%B7%20System%20Analyst%20%C2%B7%20Backend%20Development&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:2563EB&height=220&section=header&text=Tran%20Tan%20Tai&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%C2%B7%20Technical%20BA%20%C2%B7%20System%20Analyst%20%C2%B7%20Backend%20Development&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://github.com/TranTanTaii">
-    <img src="https://img.shields.io/github/followers/[TranTanTaii]?label=Follow&style=for-the-badge&logo=github" />
-  </a>
-  <a href="[your-linkedin-url]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/github/followers/TranTanTaii?label=Follow&style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:tantai2976@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TranTanTaii">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -22,88 +22,257 @@
 
 ## ◈ About Me
 
+<table>
+  <tr>
+    <td><b>Name</b></td>
+    <td>Tran Tan Tai</td>
+  </tr>
+  <tr>
+    <td><b>Major</b></td>
+    <td>Information Systems</td>
+  </tr>
+  <tr>
+    <td><b>GPA</b></td>
+    <td>3.41/4.0</td>
+  </tr>
+  <tr>
+    <td><b>English</b></td>
+    <td>TOEIC 670</td>
+  </tr>
+  <tr>
+    <td><b>Orientation</b></td>
+    <td>Technical Business Analyst Intern · System Analyst Intern · Backend Developer Intern</td>
+  </tr>
+  <tr>
+    <td><b>Status</b></td>
+    <td>Open to internship opportunities</td>
+  </tr>
+</table>
+
+---
+
+## ◈ Career Focus
+
 ```yaml
 profile:
   name: "Tran Tan Tai"
   major: "Information Systems"
   gpa: "3.41/4.0"
   english: "TOEIC 670"
-  orientation:
-    - "Technical Business Analyst Intern"
-    - "System Analyst Intern"
-    - "Backend Developer Intern"
 
-focus:
-  business_analysis:
-    - "Actor and role analysis"
-    - "Business workflow analysis"
-    - "SRS documentation"
-    - "UML diagrams"
-    - "Business rules"
-  system_analysis:
-    - "Data state changes"
-    - "Use case modeling"
-    - "Database design"
-    - "REST API flow"
-  backend:
-    - "Node.js"
-    - "Express.js"
-    - "NestJS"
-    - "Microservices basics"
+career_orientation:
+  - "Technical Business Analyst Intern"
+  - "System Analyst Intern"
+  - "Backend Developer Intern"
+
+interests:
+  - "Business workflow analysis"
+  - "Actor and role analysis"
+  - "System interaction modeling"
+  - "Data state changes"
+  - "SRS documentation"
+  - "UML diagrams"
+  - "Database design"
+  - "REST API design"
+
+philosophy:
+  business_analysis: "Understand how users work and how business processes operate"
+  system_analysis: "Translate requirements into system behavior, data flow, and technical design"
+  backend: "Build APIs and services that support real business workflows"
 
 status: "Open to internship opportunities"
+```
 
-◈ Core Competencies
-<table> <tr> <td width="33%"> <h3>📊 Business & System Analysis</h3> <p> Analyze actors, business workflows, system interactions, business rules, and data states. Translate requirements into SRS, UML diagrams, and technical designs. </p> </td> <td width="33%"> <h3>💻 Backend Development</h3> <p> Build REST APIs and backend services using Node.js, Express.js, and NestJS. Understand MVC, database design, and microservices basics. </p> </td> <td width="33%"> <h3>🧩 Product Thinking</h3> <p> Focus on how users interact with a system, how data is created or updated, and how each role participates in the business process. </p> </td> </tr> </table>
-◈ Tech Stack
-<p align="center"> <b>Business & System Analysis</b><br/> <img src="https://img.shields.io/badge/SRS-Documentation-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/UML-Diagrams-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Visual%20Paradigm-Modeling-orange?style=for-the-badge" /> </p> <p align="center"> <b>Backend & APIs</b><br/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" /> </p> <p align="center"> <b>Frontend & Mobile</b><br/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> </p> <p align="center"> <b>Database & Architecture</b><br/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Microservices-Basics-orange?style=for-the-badge" /> </p> <p align="center"> <b>Additional Exposure</b><br/> <img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kafka-Basic-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-Basic-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
-◈ Selected Academic Projects
-<details> <summary><b>🏨 Make Trip to Easy — Room Booking Website</b></summary> <br/>
+---
 
-Tech Stack: Node.js, Express.js, MySQL, Bootstrap, MVC, Visual Paradigm
+## ◈ Core Competencies
 
-Main Actors: Customer, Room Provider, Administrator
+<table>
+  <tr>
+    <td width="33%">
+      <h3>📊 Business & System Analysis</h3>
+      <p>
+        Analyze actors, business workflows, business rules, system interactions,
+        and data state changes. Translate requirements into SRS, UML diagrams,
+        and technical specifications.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>💻 Backend Development</h3>
+      <p>
+        Build REST APIs and backend services using Node.js, Express.js, NestJS,
+        and databases. Understand MVC, database design, and microservices basics.
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🧩 Product & Domain Thinking</h3>
+      <p>
+        Focus on how each user role interacts with the system, what data is created
+        or updated, and how business processes are converted into software features.
+      </p>
+    </td>
+  </tr>
+</table>
 
-Focus:
+---
 
-Booking workflow analysis
-Role-based system design
-SRS documentation
-UML diagrams
-MySQL database design
-MVC architecture
-</details> <details> <summary><b>🚚 Logistics Management System</b></summary> <br/>
+## ◈ Tech Stack
 
-Tech Stack: NestJS, React, React Native, PostgreSQL, Microservices
+<p align="center">
+  <b>Business & System Analysis</b><br/>
+  <img src="https://img.shields.io/badge/SRS-Documentation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML-Diagrams-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Use%20Case-Modeling-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visual%20Paradigm-Modeling-orange?style=for-the-badge" />
+</p>
 
-Main Actors: Merchant, Ops Staff, Courier, Public Customer
+<p align="center">
+  <b>Backend & APIs</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
+</p>
 
-Focus:
+<p align="center">
+  <b>Frontend & Mobile</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-Shipment order workflow analysis
-Multi-actor business process modeling
-Microservices-based design
-Backend service development
-Web and mobile interfaces
-</details> <details> <summary><b>🚕 CAB Booking System — Ride Booking Platform</b></summary> <br/>
+<p align="center">
+  <b>Database & Architecture</b><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-Architecture-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-Basics-orange?style=for-the-badge" />
+</p>
 
-Tech Stack: Node.js, Express.js, MongoDB, Kafka, Redis, React, React Native, Microservices
+<p align="center">
+  <b>Tools & Additional Exposure</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Basic-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-Basic-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-Basic-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-Basic-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-Focus:
+---
 
-Ride booking workflow
-Microservices concepts
-Asynchronous service communication
-Caching and temporary data handling
-AI-assisted implementation and debugging
+## ◈ Selected Academic Projects
+
+<details>
+<summary><b>🏨 Make Trip to Easy — Room Booking Website</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js, Express.js, MySQL, Bootstrap, MVC, Visual Paradigm
+
+**Main Actors:**
+
+- Customer
+- Room Provider
+- Administrator
+
+**Main Focus:**
+
+- Room booking workflow analysis
+- Role-based system design
+- SRS documentation
+- UML diagrams
+- MVC architecture
+- MySQL database design
+
+**What I learned:**
+
+- How customers, providers, and administrators interact with a booking system.
+- How booking data changes through searching, requesting, confirming, and managing rooms.
+- How to translate business requirements into system diagrams and database structures.
+
 </details>
-◈ GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=github_dark&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=github_dark&hide_border=true" /> </p>
-◈ Current Learning Direction
+
+<details>
+<summary><b>🚚 Logistics Management System</b></summary>
+
+<br/>
+
+**Tech Stack:** NestJS, React, React Native, PostgreSQL, Microservices
+
+**Main Actors:**
+
+- Merchant
+- Ops Staff
+- Courier
+- Public Customer
+
+**Main Focus:**
+
+- Shipment order workflow analysis
+- Multi-actor business process modeling
+- Microservices-based design
+- Backend service development
+- Web and mobile interfaces
+
+**What I learned:**
+
+- How logistics order workflows are handled by different user roles.
+- How shipment statuses and operational actions affect system data.
+- How to separate business domains using microservices concepts.
+
+</details>
+
+<details>
+<summary><b>🚕 CAB Booking System — Ride Booking Platform</b></summary>
+
+<br/>
+
+**Tech Stack:** Node.js, Express.js, MongoDB, Kafka, Redis, React, React Native, Microservices
+
+**Main Focus:**
+
+- Ride booking workflow
+- Microservices concepts
+- Asynchronous service communication
+- Caching and temporary data handling
+- AI-assisted implementation and debugging
+
+**What I learned:**
+
+- How a ride booking system can be separated into independent services.
+- How Kafka can support asynchronous communication between services.
+- How Redis can be used for caching or temporary data handling.
+- How to use AI-assisted tools while still following a provided system design.
+
+</details>
+
+---
+
+## ◈ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TranTanTaii&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranTanTaii&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## ◈ Current Learning Direction
+
+```text
 Current focus
 ├── Business Analysis & System Analysis
 │   ├── SRS documentation
 │   ├── UML diagrams
+│   ├── Actor and role analysis
 │   ├── Business rules
 │   └── Workflow modeling
 │
@@ -118,4 +287,21 @@ Current focus
     ├── Docker
     ├── Kafka
     └── Redis
-    <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1F2937&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontColor=ffffff&fontSize=22" /> </p> ```
+```
+
+---
+
+## ◈ Contact
+
+<p align="center">
+  <a href="mailto:tantai2976@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tantai2976%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/TranTanTaii">
+    <img src="https://img.shields.io/badge/GitHub-TranTanTaii-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1F2937&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontColor=ffffff&fontSize=22" />
+</p>
