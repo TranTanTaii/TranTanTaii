@@ -277,16 +277,12 @@ status: "Open to internship opportunities"
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=trantantaii&bg_color=0d1117&color=7faaff&line=5de8b8&point=7faaff&area=true&area_color=7faaff&hide_border=true&custom_title=Contribution%20Activity%20Graph" />
-</div>
 
 <br/>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trantantaii/trantantaii/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/TranTanTaii/TranTanTaii/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 </div>
 
 ## ◈ Current Learning Direction
