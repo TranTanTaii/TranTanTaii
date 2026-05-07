@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3B82F6&height=220&section=header&text=[Tran%20Tan%20Tai]&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%C2%B7%20Technical%20BA%20%C2%B7%20System%20Analyst%20%C2%B7%20Backend%20Development&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:3B82F6&height=220&section=header&text=Tran%20Tan%20Tai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20%C2%B7%20Technical%20BA%20%C2%B7%20System%20Analyst%20%C2%B7%20Backend%20Development&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/[TranTanTaii]">
+  <a href="https://github.com/TranTanTaii">
     <img src="https://img.shields.io/github/followers/[TranTanTaii]?label=Follow&style=for-the-badge&logo=github" />
   </a>
   <a href="[your-linkedin-url]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:[tantai2976@gmail.com]">
+  <a href="mailto:tantai2976@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 
 ```yaml
 profile:
-  name: "[YOUR NAME]"
+  name: "Tran Tan Tai"
   major: "Information Systems"
   gpa: "3.41/4.0"
   english: "TOEIC 670"
