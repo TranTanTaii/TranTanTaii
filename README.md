@@ -268,10 +268,6 @@ status: "Open to internship opportunities"
 <br/>
 
 <!-- SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TranTanTaii/TranTanTaii/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</div>
-
 ## ◈ Current Learning Direction
 
 ```text
