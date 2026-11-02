@@ -256,24 +256,11 @@ status: "Open to internship opportunities"
 ## ◈ GitHub Activity
 
 <!-- STATS + TOP LANGS -->
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trantantaii&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trantantaii&theme=github_dark" />
-  &nbsp;
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trantantaii&theme=github_dark" />
-  &nbsp;
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trantantaii&theme=github_dark" />
-</div>
 
 <br/>
 
 <!-- STREAK -->
-<div align="center">
-  <img width="68%" src="https://streak-stats.demolab.com?user=trantantaii&theme=tokyonight&hide_border=true&background=0d1117&ring=7faaff&fire=5de8b8&currStreakLabel=7faaff&sideNums=7faaff&dates=8b949e&sideLabels=8b949e&stroke=0d1117" />
-</div>
+
 
 <br/>
 
